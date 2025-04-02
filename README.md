@@ -1,4 +1,4 @@
-# Nitro Smart Contract Deployment
+# Roll Up Deployment
 
 ## Overview
 This document provides details regarding the deployment of a Nitro smart contract, including relevant contract addresses and transaction links.
